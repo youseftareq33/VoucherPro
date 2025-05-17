@@ -17,19 +17,14 @@ Key Features:
 
 - 🔹 Backend Framework:
   - Spring Boot 3.4.4
-
 - 🔹 Programming Language:
   - Java 21
-
 - 🔹 Database and Persistence:
   - MySQL with Spring Data JPA
-
 - 🔹 Security:
   - Spring Security for authentication & authorization
-
 - 🔹 Frontend:
   - Thymeleaf template engine
-
 - 🔹 Development Tools:
   - Maven – For building and dependency management
   - GitHub – For version control and collaboration
